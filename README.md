@@ -1,1 +1,1 @@
-# connect6
+# SDS project
